@@ -1,0 +1,15 @@
+# 环境变量（含 API Key 和个人信息，绝对不传！）
+.env
+sniper.py
+
+# Python 虚拟环境
+.venv/
+
+# 临时截图和验证码
+temp/
+*.png
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
